@@ -1,0 +1,11 @@
+requirements
+- python3
+- conda
+- shiny
+- shiny.types 
+- io
+- htmltools
+- pandas
+- numpy
+- subprocess
+
